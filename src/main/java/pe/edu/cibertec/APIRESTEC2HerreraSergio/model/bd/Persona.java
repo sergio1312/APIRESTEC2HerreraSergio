@@ -1,7 +1,8 @@
-package pe.edu.cibertec.WAEC2HerreraSergio.model.bd;
+package pe.edu.cibertec.APIRESTEC2HerreraSergio.model.bd;
 
-import lombok.Data;
 import jakarta.persistence.*;
+import lombok.Data;
+
 import java.util.Date;
 
 @Data

@@ -1,10 +1,9 @@
-package pe.edu.cibertec.WAEC2HerreraSergio.service;
+package pe.edu.cibertec.APIRESTEC2HerreraSergio.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import pe.edu.cibertec.WAEC2HerreraSergio.model.bd.Persona;
-import pe.edu.cibertec.WAEC2HerreraSergio.repository.PersonaRepository;
-
+import pe.edu.cibertec.APIRESTEC2HerreraSergio.model.bd.Persona;
+import pe.edu.cibertec.APIRESTEC2HerreraSergio.repository.PersonaRepository;
 import java.util.List;
 
 @Service
