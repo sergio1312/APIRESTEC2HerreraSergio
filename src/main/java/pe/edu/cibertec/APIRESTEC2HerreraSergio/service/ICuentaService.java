@@ -1,6 +1,7 @@
-package pe.edu.cibertec.WAEC2HerreraSergio.service;
+package pe.edu.cibertec.APIRESTEC2HerreraSergio.service;
 
-import pe.edu.cibertec.WAEC2HerreraSergio.model.bd.Cuenta;
+import pe.edu.cibertec.APIRESTEC2HerreraSergio.model.bd.Cuenta;
+
 import java.util.List;
 
 public interface ICuentaService {
